@@ -1,16 +1,22 @@
-# ressponsive_learning
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Libraries Used](#libraries-used)
+* [Screenshot](#screenshot)
 
-A new Flutter project.
+## General info
+In this project , A complete  responsive Fitness Dashboard UI is design using MediaQuery to measure screen size of Device and make app Flexible to all ScreenSize with one UI Code.
+## Technologies
+Project is created with:
+* Flutter Framework
+* MediaQuery
+   Dart
 
-## Getting Started
+## Libraries Used
+The various Libraries Used in this application are:
+* fl_chart: ^0.62.0
+* flutter_svg: ^2.0.5
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
